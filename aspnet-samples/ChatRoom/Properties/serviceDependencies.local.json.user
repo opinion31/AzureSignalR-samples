@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2024-08-22T08:32:58.5238351Z"
+    },
+    "signalr1": {
+      "restored": true,
+      "restoreTime": "2024-08-22T08:33:41.6631659Z"
+    }
+  },
+  "parameters": {
+    "signalr1.resourceGroupName": {
+      "Name": "signalr1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "artie_test"
+    },
+    "signalr1.subscriptionId": {
+      "Name": "signalr1.subscriptionId",
+      "Type": "subscription",
+      "Value": "fcc01e5f-02db-402a-a8d3-208799c22ae8"
+    }
+  }
+}
